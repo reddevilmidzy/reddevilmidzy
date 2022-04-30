@@ -1,3 +1,7 @@
+## Cozy
+#### 끈질기게 생각하고 명쾌하게 설명하라
+
+
 ### 🌱 I’m currently learning Python
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freddevilmidzy&count_bg=%23E5DE8A&title_bg=%23FF6E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
