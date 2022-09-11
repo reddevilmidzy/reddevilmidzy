@@ -1,5 +1,5 @@
 ## Cozy
-#### 끈질기게 생각하고 명쾌하게 설명하라
+### 여전할 것인가, 역전할 것인가.
 
 
 ### 🌱 I’m currently learning Python
