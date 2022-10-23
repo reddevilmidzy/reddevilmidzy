@@ -2,7 +2,7 @@
 ### 여전할 것인가, 역전할 것인가.
 
 
-### 🌱 I’m currently learning Python
+### 🌱 I’m currently learning Java
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freddevilmidzy&count_bg=%23E5DE8A&title_bg=%23FF6E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 💪Language
