@@ -11,13 +11,14 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 
-<!--
+
 ### 🏆GitHub
-![Cozy](https://github-readme-stats.vercel.app/api?username=reddevilmidzy&theme=onedark&show_icons=true)
--->
+![Cozy](https://github-readme-stats.vercel.app/api?username=reddevilmidzy&theme=onedark&show_icons=true) 
+
 ### 🏅Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdg0228)](https://solved.ac/cdg0228/)
+
 <!--
 **reddevilmidzy/reddevilmidzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
