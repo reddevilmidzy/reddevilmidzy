@@ -1,5 +1,5 @@
 ## Cozy
-### 여전할 것인가, 역전할 것인가.
+### We will find a way, we always have.
 
 
 ### 🌱 I’m currently learning Java
