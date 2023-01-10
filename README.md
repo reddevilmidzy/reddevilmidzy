@@ -13,7 +13,7 @@
 
 
 ### 🏆GitHub
-![Cozy](https://github-readme-stats.vercel.app/api?username=reddevilmidzy&theme=onedark&show_icons=true) 
+![Cozy](https://github-readme-stats-sigma-five.vercel.app/api?username=reddevilmidzy&theme=onedark&show_icons=true)
 
 ### 🏅Solved.ac
 [![Solved.ac
