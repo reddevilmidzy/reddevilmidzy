@@ -21,5 +21,5 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddevilmidzy&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true)
 
 
-### 🏅Solved.ac
+### 🏅solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdg0228)](https://solved.ac/cdg0228/)
